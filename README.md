@@ -12,7 +12,7 @@
                        
     after process of Compiling | Interpreting | TransCompiling
     
-                     Build | Make
+                     Build | Make (options)
     
                            |
                            V
@@ -30,6 +30,11 @@
                            V
                         
                      Excutable Code
+                     
+                           |
+                           V
+                           
+                       Run | Debug (options)
                      
 
 # 檢視步驟
