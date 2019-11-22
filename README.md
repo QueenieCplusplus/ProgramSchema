@@ -45,3 +45,9 @@
 
 ＊ 利用 Loader & Linker 結合語言自身的標準函數庫 stardard Lib，而 C++ 函數庫是含有一群稱為 function 的電腦 routine 的目的地碼，Linker 動作本身並非單純組合目的地碼，還會加入 Startup Code 啟動碼，產生 Runtime Version，並且將產生 Excutable Code (常常聽見的可執行檔)。
 
+# 可選步驟
+
+* Run：完成所有上述過程，並且執行。
+
+* Debug：完成所有上述過程，並且逐一執行。
+
